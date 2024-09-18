@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  /* 
+  text-align: start;
+  text-align: end; */
+
+  /* 
+  font-weight: 700;
+  font-weight: bold;
+  font-weight: normal;
+  */
+
+  
+  /*
+  text-decoration: underline;
+  text-decoration: wavy underline;
+  text-decoration: underline dotted;
+  text-decoration: underline overline #FF3028;
+  */
+}
+
+p {
+  text-align: right;
+}
