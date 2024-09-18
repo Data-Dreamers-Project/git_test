@@ -1,0 +1,16 @@
+div {
+  width: 210px;
+  border-color: grey;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  border-color: rgb(236, 183, 191);
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 50%;
+}
